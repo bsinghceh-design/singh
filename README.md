@@ -14,7 +14,7 @@ A Python-based toolkit to **generate password dictionaries**, simulate dictionar
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/password-policy-testing-toolkit.git
+git clone https://github.com/bsinghceh-design/password-policy-testing-toolkit.git
 cd password-policy-testing-toolkit
 python3 -m venv venv
 source venv/bin/activate
